@@ -1,4 +1,4 @@
-# Api security in large enterprises
+# API security in large enterprises
 Leveraging machine learning for anomaly detection
 
 Official repository for the paper implementation of varMax published at the International Symposium on Networks, Computers and Communications (ISNCC).
